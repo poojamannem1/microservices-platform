@@ -148,10 +148,7 @@ microservices-platform/
 
 ## 👩‍💻 Author
 
-Your Name
+Mannem.Pooja
 
 ---
 
-## ⭐ If you like this project
-
-Give it a star ⭐ on GitHub!
